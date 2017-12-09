@@ -90,6 +90,6 @@ Please input the liability duration 2
 ```
 ## Credits
 
-Authors: Grigor Bezirganyan, Varlam Mkrtchyan, Marine Hambaryan
-Instructor: Lusine Poghosyan
-American University of Armenia
+Authors: Grigor Bezirganyan, Varlam Mkrtchyan, Marine Hambaryan  
+Instructor: Lusine Poghosyan  
+American University of Armenia  
