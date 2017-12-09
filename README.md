@@ -27,7 +27,11 @@ needed will give wrong result.**
 Note that you need all has files to be in same directory.
 3. Press __"Save file and Run"__ button and navigate to Command Window, or
    navigate to Command Window and type immunization.
-
+   
+**Note that some of the values need to be inseted in square brackets []. Please
+pay attention to instructions after running the application. Inputing data
+without square brackets where needed, or with square brackets where is not
+needed will give wrong result.**
 ## The Algorithm
 
 For the Immunization we used the Classic approach. We need to immunize the
