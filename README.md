@@ -88,8 +88,4 @@ Please input the frequencies of each bond separated by space [1 1 1]
 Please input the liability you have to pay 100000
 Please input the liability duration 2
 ```
-## Credits
 
-Authors: Grigor Bezirganyan, Varlam Mkrtchyan, Marine Hambaryan  
-Instructor: Lusine Poghosyan  
-American University of Armenia  
